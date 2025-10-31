@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Figures/Outputs (optional - uncomment if you don't want to track generated figures)
+# figures/
+# *.png
+# *.pdf
+
+# Data files (if large, consider git-lfs or exclude)
+# *.data
+# *.csv
+
+# Logs
+*.log
+
